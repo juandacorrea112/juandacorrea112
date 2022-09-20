@@ -2,7 +2,7 @@
 <!--
 **juandacorrea112/juandacorrea112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Front-End Developer
+<h1>Front-End Developer<h1/>
 
 <div align="center">
   <a href="https://github.com/juandacorrea112">
@@ -17,6 +17,7 @@ Front-End Developer
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+<br>
 
 <hr>
  <div> 
